@@ -1,0 +1,1 @@
+print("hello krupa inka entha kaalam ra.. ")
